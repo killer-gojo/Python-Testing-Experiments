@@ -1,1 +1,5 @@
-Hi, Welcome to my repo
+print("--- DÉBUT DU SCRIPT DISTANT ---")
+nom = "Gojo"
+for i in range(3):
+    print(f"Salut {nom}, chargement n°{i}...")
+print("--- FIN DU SCRIPT DISTANT ---")
